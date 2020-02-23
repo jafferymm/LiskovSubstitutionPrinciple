@@ -1,0 +1,6 @@
+C:\Users\jaffe\source\repos\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.exe.config
+C:\Users\jaffe\source\repos\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.exe
+C:\Users\jaffe\source\repos\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.pdb
+C:\Users\jaffe\source\repos\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.csprojAssemblyReference.cache
+C:\Users\jaffe\source\repos\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.exe
+C:\Users\jaffe\source\repos\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.pdb
