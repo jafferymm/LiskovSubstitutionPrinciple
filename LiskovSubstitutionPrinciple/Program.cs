@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LiskovSubstitutionPrinciple
 {
-    public class Rectangle
+    public class Rectangle 
     {
         //add virtual
         public int Width { get; set; }
